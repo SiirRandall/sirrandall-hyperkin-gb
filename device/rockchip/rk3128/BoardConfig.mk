@@ -36,7 +36,7 @@ export RK_ROOTFS_IMG=buildroot/output/${RK_CFG_BUILDROOT}/images/rootfs.${RK_ROO
 # Set oem partition type, including ext2 squashfs
 export RK_OEM_FS_TYPE=squashfs
 # Set userdata partition type, including ext2, fat
-export RK_USERDATA_FS_TYPE=ext2
+export RK_USERDATA_FS_TYPE=fat
 # Set flash type. support <emmc, nand, spi_nand, spi_nor>
 export RK_STORAGE_TYPE=nand
 #OEM config: /oem/dueros/aispeech/iflytekSDK/CaeDemo_VAD/smart_voice
