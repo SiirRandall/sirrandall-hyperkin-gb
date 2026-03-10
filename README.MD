@@ -1,4 +1,7 @@
+
 # Modified Firmware Release for RetronSQ (Based on Hyperkin Official Firmware Version 1.2)
+
+## This is now archived I just don't have the time or the need for this firmare anymore. 
 
 ## Forked From Hyperkin git repo
 - This projected has been forked from [hyperkin-gb](https://github.com/hyperkin-game/hyperkin-gb) 
